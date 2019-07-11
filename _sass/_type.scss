@@ -138,11 +138,12 @@ a[href^="#fnref:"] {
 p a {
   text-decoration: underline !important;
 }
+
 a {
   font-weight: inherit;
   line-height: inherit;
   color: var(--link-color);
-  text-decoration: none;
+  // text-decoration: none;
   transition: all 0.2s ease-in-out;
   -webkit-text-decoration-color: var(--link-border-color);
   text-decoration-skip-ink: auto;
