@@ -34,6 +34,6 @@ pages_list:
 twitter-url: da_nn_y_o
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
