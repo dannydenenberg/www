@@ -10,7 +10,7 @@
 
 .masthead {
   text-decoration: none !important;
-  padding-top: 1rem;
+  padding-top: 0.6rem;
   text-align: right;
 }
 
@@ -37,6 +37,7 @@
 }
 
 .masthead-title {
+  text-decoration: none;
   margin-top: 0;
   margin-bottom: 0;
   // color: $gray-4;
