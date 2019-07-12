@@ -36,3 +36,4 @@ In case you were wondering, this site is:
 - Coded with [Visual Studio Code](https://code.visualstudio.com/)
 - Built on [Jekyll](https://jekyllrb.com/), the open source static site generator
 - Hosted on [GitHub Pages](https://pages.github.com/)
+- Using the `Operator Mono` font for code

@@ -34,7 +34,7 @@ pages_list:
   Projects: "/projects"
 
 # personal info
-twitter-url: da_nn_y_o
+twitterurl: da_nn_y_o
 
 # Gems
 plugins:
