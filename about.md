@@ -28,6 +28,8 @@ Daniel Denenberg is a student and Software Developer from the secretly gorgeous 
 
 This URL has been my online home for many years, manifesting at times as a blog or a portfolio until landing on this current single-column blog. Today it’s a bit of an graveyard for my development-related ramblings.
 
+What's with the **da_nn_y_o**? Well, it is my twitter username and also what some people call me: "danny-oh". (My full name is _Daniel Oscar Denenberg_)
+
 In case you were wondering, this site is:
 
 - Designed and coded on a Mac in Omaha

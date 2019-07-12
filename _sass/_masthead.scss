@@ -36,6 +36,10 @@
   background-color: var(--hr-color);
 }
 
+.masthead a {
+  text-decoration: none !important;
+}
+
 .masthead-title {
   text-decoration: none;
   margin-top: 0;
