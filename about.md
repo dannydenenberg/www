@@ -4,7 +4,7 @@ title: About
 ---
 
 <br>
-<span style="font-size:larger;">Software Developer <a href="https://www.gallup.com/home.aspx">@gallup.</a> Theater Nerd.</span>
+<span style="font-size:larger;">Freelance Software Developer. Previously Software Developer Intern<a href="https://www.gallup.com/home.aspx">@gallup.</a> Previously Cybersecurity Intern <a href="https://www.unomaha.edu/">@UNO</a>. Huge theater nerd.</span>
 
 <div class="links">
        
