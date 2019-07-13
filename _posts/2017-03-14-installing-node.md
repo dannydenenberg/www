@@ -22,9 +22,9 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | 
 Restart your terminal. You should now be able to easily install and manage Node versions.
 
 ```bash
-nvm install 10
+nvm install <VERSION>
 
-nvm use 10
+nvm use <VERSION>
 ```
 
 ### Windows

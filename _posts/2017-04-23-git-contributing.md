@@ -11,7 +11,7 @@ This guide assumes that you have a [Github](https://github.com/) account and [gi
 
 After you find a repo that looks cool, the first step is to fork it. A fork will create a copy of the repo under your account that you can modify, while maintaining a link to original (that's called the upstream repo).
 
-![Forking](/assets/forking.png)
+![Forking](/goods/forking.png)
 
 ## Step 2: Clone
 
@@ -52,6 +52,6 @@ Let's push your branch to your fork.
 git push origin my-cool-thing
 ```
 
-When you go back to Github you should automatically see a button labeled **Create New Pull Request for my-cool-thing**. Go ahead and push that button. Add additional details as needed and it will show up in the list of PRs once submitted.
+When you go back to Github you should automatically see a button labeled **Create New Pull Request for `my-cool-thing`**. Go ahead and push that button. Add additional details as needed and it will show up in the list of PRs once submitted.
 
 Many larger projects have their own "Contributor Guidelines" and may require you to sign a [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement) before participating.

@@ -4,7 +4,7 @@ title: About
 ---
 
 <br>
-<span style="font-size:larger;">Freelance Software Developer. Previously Software Developer Intern<a href="https://www.gallup.com/home.aspx">@gallup.</a> Previously Cybersecurity Intern <a href="https://www.unomaha.edu/">@UNO</a>. Huge theater nerd.</span>
+<span style="font-size:larger;">Freelance Software Developer. Previously Software Developer Intern <a href="https://www.gallup.com/home.aspx">@gallup.</a> Previously previously Cybersecurity Intern <a href="https://www.unomaha.edu/">@UNO</a>. Huge theater nerd.</span>
 
 <div class="links">
        
@@ -18,9 +18,9 @@ title: About
 
 </div>
 
-Daniel Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha, NE](https://en.wikipedia.org/wiki/Omaha,_Nebraska).
+Daniel Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska), NE.
 
-[Here](goods/DenenbergResume2019.pdf) is my resume.
+[Here](goods/resume/DenenbergResume2019.pdf) is my resume.
 
 ---
 

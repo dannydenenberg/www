@@ -13,7 +13,7 @@ permalink: apache-server
 - [Install PHP (If you want)](#install-php-if-you-want)
 - [Making it public](#making-it-public)
 - [Port forwarding](#port-forwarding)
-- [Test the web server (part 2)](#test-the-web-server-part-2)
+  <!-- - [Test the web server (part 2)](#test-the-web-server-part-2) -->
 
 ## Install apache
 
@@ -35,7 +35,7 @@ By default, Apache puts a test HTML file in the web folder. This default web pag
 
 The default page will look something like this:
 
-![alt text](https://assets.digitalocean.com/articles/lamp-debian8/JUGu5aW.png "The default web page apache gives us")
+![alt text](/goods/apachepic.png "The default web page apache gives us")
 
 If you see this, you have apache working!
 
@@ -160,4 +160,4 @@ To do this you have to use something called **port forwarding**. Port forwarding
 
 8. Click the add button
 
-You have now successfully added port forwarding for your website!
+You have now successfully added port forwarding for your website and can access it outside of LAN!
