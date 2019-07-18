@@ -20,7 +20,7 @@ title: About
 
 Daniel Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska), NE.
 
-[Here](goods/resume/DenenbergResume2019.pdf) is my resume.
+[Here](goods/resume/DenenbergResume2019.pdf) is my resume. 📜
 
 ---
 
