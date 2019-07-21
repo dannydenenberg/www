@@ -3,28 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p class="message">Freelance Software Developer. Previously <strong>Software Developer Intern</strong> <a href="https://www.gallup.com/home.aspx">@gallup.</a> Previously previously <strong>Cybersecurity Intern</strong> <a href="https://www.unomaha.edu/">@UNO</a>. Huge theater nerd 🎭💃.</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Daniel Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska), NE.
 
-There are currently two themes built on Poole:
+[Here](goods/resume/DenenbergResume2019.pdf) is my resume. 📜
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+---
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## About the site
 
-## Setup
+This URL has been my online home for many years, manifesting at times as a blog or a portfolio until landing on this current single-column blog. Today it’s a bit of an graveyard for my development-related ramblings.
 
-Some fun facts about the setup of this project include:
+In case you were wondering, this site is:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- Designed and coded on a Mac in Omaha
+- Coded with [Visual Studio Code](https://code.visualstudio.com/)
+- Built on [Jekyll](https://jekyllrb.com/), the open source static site generator
+- Hosted on [GitHub Pages](https://pages.github.com/)
+- Using the `Operator Mono` font for code
