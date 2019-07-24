@@ -1,5 +1,5 @@
 ---
-title: List
+title: Writings
 layout: page
 ---
 

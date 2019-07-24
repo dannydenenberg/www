@@ -5,7 +5,7 @@ title: About
 
 <p class="message">Freelance Software Developer. Previously <strong>Software Developer Intern</strong> <a href="https://www.gallup.com/home.aspx">@gallup.</a> Previously previously <strong>Cybersecurity Intern</strong> <a href="https://www.unomaha.edu/">@UNO</a>. Huge theater nerd 🎭💃.</p>
 
-Daniel Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska), NE.
+Danny Denenberg is a student and Software Developer from the secretly gorgeous city of [Omaha](https://en.wikipedia.org/wiki/Omaha,_Nebraska), NE.
 
 You can contact me at `dannydenenberg` at `gmail` dot `com`.
 
